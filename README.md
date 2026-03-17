@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Ashray Sikka 👋</h1>
 
-<!--
-**AshraySikka/AshraySikka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Python Backend Developer</b> · Toronto, Canada · Open to U.S. roles
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About me
+
+- Backend developer with **8+ years** of engineering and technical project management experience
+- Currently completing **Python Backend Web Development Certificate** @ University of Alberta
+- Building real-world tools with Python, LLM APIs, and data pipelines
+- Targeting backend developer roles in **Canada and the U.S.**
+- Ask me about Python, REST APIs, ETL pipelines, or LLM integrations
+
+---
+
+### Featured projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [Resume Matcher](https://github.com/AshraySikka/Resume-matcher) | AI-powered resume scoring + LLM rewriter | Python · Streamlit · Gemini API |
+| [Healthcare ETL Pipeline](https://github.com/AshraySikka/Healthcare-ETL-Pipeline) | End-to-end ETL pipeline with live dashboard | Python · SQLite · Streamlit |
+
+---
+
+### GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AshraySikka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshraySikka&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AshraySikka&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ashraysikka/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ashray15.sikka@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
