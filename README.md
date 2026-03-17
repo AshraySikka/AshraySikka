@@ -6,7 +6,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
@@ -29,10 +28,10 @@
 
 ### Featured projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [Resume Matcher](https://github.com/AshraySikka/Resume-matcher) | AI-powered resume scoring + LLM rewriter | Python · Streamlit · Gemini API |
-| [Healthcare ETL Pipeline](https://github.com/AshraySikka/Healthcare-ETL-Pipeline) | End-to-end ETL pipeline with live dashboard | Python · SQLite · Streamlit |
+| Project | Description | Stack | Live Demo |
+|---|---|---|---|
+| [Resume Matcher](https://github.com/AshraySikka/Resume-matcher) | AI-powered resume scoring + LLM rewriter | Python · Streamlit · Gemini API | [Live Demo](https://resume-matcher-ashray.streamlit.app/) |
+| [Healthcare ETL Pipeline](https://github.com/AshraySikka/Healthcare-ETL-Pipeline) | End-to-end ETL pipeline with live dashboard | Python · SQLite · Streamlit | [Live Demo](https://9doyfrufk22skc46xhh28b.streamlit.app/) |
 
 ---
 
