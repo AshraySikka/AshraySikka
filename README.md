@@ -21,7 +21,6 @@
 - Backend developer with **8+ years** of engineering and technical project management experience
 - Currently completing **Python Backend Web Development Certificate** @ University of Alberta
 - Building production-style REST APIs with FastAPI, PostgreSQL, JWT auth, and automated testing
-- Targeting backend developer roles in **Canada and the U.S.**
 - Ask me about Python, REST APIs, ETL pipelines, or LLM integrations
 
 ---
