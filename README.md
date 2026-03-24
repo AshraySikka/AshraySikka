@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ashray Sikka 👋</h1>
 <p align="center">
-  <b>Python Backend Developer</b> · Toronto, Canada · Open to U.S. roles
+  <b>Python Backend Developer</b> · Toronto, Canada
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
