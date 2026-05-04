@@ -30,7 +30,7 @@
 |---|---|---|---|
 | [CareTrack API](https://github.com/AshraySikka/caretrack-api) | Production-style REST API for patient care coordination. JWT auth, role-based access, 23 endpoints, 26 automated tests, CI/CD pipeline | FastAPI · PostgreSQL · SQLAlchemy · Docker · pytest | [Live API](https://caretrack-api.onrender.com/docs) |
 | [Resume Matcher](https://github.com/AshraySikka/Resume-matcher) | AI-powered resume scoring + LLM rewriter | Python · Streamlit · Gemini API | [Live Demo](https://resume-matcher-ashray.streamlit.app/) |
-| [MedScan AI](https://github.com/AshraySikka/medscan-ai) | AI radiology platform — upload X-rays, CT scans, MRIs and get structured diagnostic reports via Claude Vision API | Django · Claude Vision API · Python · SQLite | [Repo](https://github.com/AshraySikka/medscan-ai) |
+| [MedScan AI](https://github.com/AshraySikka/medscan-ai) | AI radiology platform: upload X-rays, CT scans, MRIs and get structured diagnostic reports via Claude Vision API | Django · Claude Vision API · Python · SQLite | [Repo](https://github.com/AshraySikka/medscan-ai) |
 | [Healthcare ETL Pipeline](https://github.com/AshraySikka/Healthcare-ETL-Pipeline) | End-to-end ETL pipeline with live dashboard | Python · SQLite · Streamlit | [Live Demo](https://9doyfrufk22skc46xhh28b.streamlit.app/) |
 
 ---
