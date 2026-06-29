@@ -49,8 +49,8 @@
 | [Sleep Diary PWA](https://github.com/AshraySikka/sleep-diary) | Clinical sleep-tracking PWA built on the CSD-M instrument, with a metrics engine (TST, sleep efficiency, WASO), PDF reports, and push reminders. Piloted with a sleep clinic | Django REST Framework · React · Vite · Neon PostgreSQL · SendGrid | [Live Demo](https://sleep-diary-psi.vercel.app/) |
 | [PCOS Tracker](https://github.com/AshraySikka/PCOS-Tracker) | Full-stack health-tracking PWA with AI-generated meal and exercise plans via the Claude API | Django REST Framework · React · Vite · PostgreSQL · Claude API | [Repo](https://github.com/AshraySikka/PCOS-Tracker) |
 | [MedScan AI](https://github.com/AshraySikka/medscan-ai) | AI radiology platform: upload X-rays, CT scans, MRIs and get structured diagnostic reports via the Claude Vision API | Django · Claude Vision API · PostgreSQL · Cloudinary · GitHub Actions | [Repo](https://github.com/AshraySikka/medscan-ai) |
+| [Urban Spark](https://github.com/AshraySikka/restaurant-webapp) | Restaurant reservation and management system: multi-table booking, guest account linking, floor-plan UI, and closing-time rules. 370+ tests | Django · SQLite · pytest · GitHub Actions | [Repo](https://github.com/AshraySikka/restaurant-webapp) |
 | [Resume Matcher](https://github.com/AshraySikka/Resume-matcher) | AI-powered resume scoring + LLM rewriter | Python · Streamlit · Gemini API | [Live Demo](https://resume-matcher-ashray.streamlit.app/) |
-| [Healthcare ETL Pipeline](https://github.com/AshraySikka/Healthcare-ETL-Pipeline) | End-to-end ETL pipeline with live dashboard | Python · pandas · SQLite · Streamlit | [Live Demo](https://9doyfrufk22skc46xhh28b.streamlit.app/) |
 
 ---
 
