@@ -41,7 +41,7 @@
 ---
 
 ### About me
-- Python backend developer focused on production REST APIs — Django REST Framework, FastAPI, SQLAlchemy, PostgreSQL
+- Python backend developer focused on production REST APIs, Django REST Framework, FastAPI, SQLAlchemy, PostgreSQL
 - Recent work includes full-stack PWAs with React and LLM integration, deployed and running in real use
 - Recently completed **Python Backend Web Development Certificate** @ University of Alberta
 - Ask me about Python, REST APIs, ETL pipelines, or LLM integrations
