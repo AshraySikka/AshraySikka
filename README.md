@@ -72,9 +72,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AshraySikka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshraySikka&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AshraySikka&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=3600"/>
-</p>
 
 ---
 
